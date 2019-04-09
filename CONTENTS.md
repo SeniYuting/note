@@ -14,5 +14,6 @@
 - [面试题](./doc/quiz/CONTENTS.md)  
 - [英语](./doc/english/CONTENTS.md)
 - [工作准备](./doc/job/CONTENTS.md)
+- [ebay](./doc/ebay/CONTENTS.md)
 
 - [组会笔记](./doc/group_will/CONTENTS.md)   
